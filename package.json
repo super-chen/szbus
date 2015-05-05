@@ -1,0 +1,26 @@
+{
+  "name": "szbus",
+  "version": "1.0.0",
+  "description": "苏州公交助手",
+  "main": "index.js",
+  "dependencies": {
+    "connect": "^3.3.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "公交"
+  ],
+  "author": "Frank Chen",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/super-chen/szbus.git"
+  },
+  "bugs": {
+    "url": "https://github.com/super-chen/szbus/issues"
+  },
+  "homepage": "https://github.com/super-chen/szbus"
+}
